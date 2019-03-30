@@ -17,10 +17,17 @@ def find_stores(longLatDict):
 	return res.json()
 
 def store_by_zip(zipCode):
+	print(zipCode)
 	a = address_to_long_lat(zipCode)
 	return find_stores(a)
 
-def check_stock(itemNum):
+def get_info_store(zipCode, storeNum):
+	a = store_by_zip(str(zipCode))
+	for val in a:
+		if val['id'] == str(storeNum):
+			return "The store on {} in {} {}".format(val['name'], val['location']['address']["addressLocality"], val['location']['address']["addressRegion"])
+
+def check_stock(itemNum, locations):
 	headers = {
 	'Origin': 'https://www.t-mobile.com',
 	'Accept-Encoding': 'gzip, deflate, br',
@@ -37,9 +44,8 @@ def check_stock(itemNum):
 	'Referer': 'https://www.t-mobile.com/cell-phone/apple-iphone-xs?color=gold&memory=64gb',
 	'Content-Type': 'application/json;charset=UTF-8',
 	}
-
-	data = '{"products":["' + itemNum + '"],"locations":["2021","4164","2994","9282","7783","5787","9120","2008","5218","5453","301E","9008","7648","7782","5725","7763","2450","4296","624E","927D","5274"]}'
-
+	#print "{}".format([str(x) for x in locations])
+	data = '{"products":["' + itemNum + '"],"locations":' + "{}".format(json.dumps([str(x) for x in locations])) + '}'
 	response = requests.post('https://core.saas.api.t-mobile.com/supplychain/inventoryavailability/v1/inventory/search/inventory-details-view', headers=headers, data=data)
 	#print response.text
 	return response.json()
@@ -74,13 +80,20 @@ def search(query):
 			return y
 
 if __name__ == '__main__':
-	g = []
-	g += store_by_zip("29680")
-	g += store_by_zip("10001")
-	g +=  store_by_zip("94030")
-	g += store_by_zip("55109")
-	with open('data.json', 'w') as outfile:
-		json.dump(g, outfile, indent=4)
+	stores = [x['id'] for x in store_by_zip('29680')]
+	for store in stores:
+		raw_input(get_info_store('29680', store))
+	stockInfo = check_stock("190198451972", stores)
+	for val in stockInfo.get('result', {}).get('inventoryAvailabilityList', []):
+		try:
+			s = val['storeId']
+			q = val['skuDetails'][0]['quantity']['availableQuantity']
+			print("Store ID: {} | Availability: {}".format(s, q))
+		except:
+			pass
+	raw_input(" ")
+	for val in store_by_zip("29680"):
+		print val['id']
 	query = raw_input("Query: ")
 	val = search(query)
 	raw_input(val)
