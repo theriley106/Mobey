@@ -5,6 +5,7 @@ from keys import *
 import requests
 import search
 import createInventory
+import time
 
 CALL_LIST = []
 CALL_LOG = {}
@@ -62,6 +63,7 @@ def testPage():
 				print("Checking Store ID: {} | Availability: {}".format(s, q))
 			except:
 				pass
+			time.sleep(.05)
 
 		for val in stockInfo.get('result', {}).get('inventoryAvailabilityList', []):
 			try:
@@ -70,7 +72,7 @@ def testPage():
 				print("Checking Store ID: {} | Availability: {}".format(s, q))
 				if int(q) > 0:
 					found = True
-					print("FOUND CLOSEST STORE WITH SKU: {} IN STOCK: Store {}".format(sku, s))
+					print("CLOSEST STORE WITH SKU: {} IN STOCK: Store {}".format(sku, s))
 					break
 			except:
 				pass
@@ -80,6 +82,8 @@ def testPage():
 		print("customer is looking for SKU: {}".format(sku))
 		return jsonify(genSpeech(returnVal))
 	elif intent == 'payBill':
+		message = """CThank you for paying your bill Using T-Mobile One.  Your payment has been processed and will show up on your account statement within 3-5 business days."""
+		os.system("lib messagebird.sms.create --recipient 18646097067 --body {}".format(message))
 		return jsonify(genSpeech("Bill has been successfully paid.  We have sent you a text message will your payment receipt.  Note that this message will not count towards your text allowance.  Is there anything else I can help you with today?"))
 	else:
 		return jsonify(genSpeech("I'm not sure what intent you called but okay"))
