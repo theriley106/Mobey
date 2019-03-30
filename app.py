@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request, url_for, redirect, Markup, jsonify, make_response, send_from_directory, session
+from twilio.twiml.voice_response import VoiceResponse, Gather
+from twilio.rest import Client
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -10,6 +12,13 @@ def genSpeech(speech, stayOpen=True):
 @app.route('/', methods=['GET'])
 def index():
 	return render_template("index.html")
+
+@app.route('/twilio', methods=['GET', 'POST'])
+def twilioRedirect():
+	print request.form
+	resp = VoiceResponse()
+	resp.dial('801-406-1288')
+	return str(resp)
 
 @app.route('/webhook', methods=['GET', 'POST'])
 def testPage():
