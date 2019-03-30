@@ -18,7 +18,7 @@ if __name__ == '__main__':
 		for v in a:
 			if val['id'] == v['id']:
 				toRemove.append(v)
-	print toRemove
+	print(toRemove)
 	for v in toRemove:
 		try:
 			a.remove(v)
