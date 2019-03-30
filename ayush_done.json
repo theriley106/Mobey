@@ -1,0 +1,1087 @@
+[
+    {
+        "name": "Eagan Station Shopping Center",
+        "url": "https://www.t-mobile.com/store-locator/mn/eagan/eagan-station-shopping-center",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "651-994-1431",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 44.8327159,
+            "utcOffset": -5,
+            "longitude": -93.1665923,
+            "address": {
+                "addressLocality": "Eagan",
+                "addressRegion": "MN",
+                "streetAddress": "3450 Pilot Knob Rd Ste 102",
+                "postalCode": "55123"
+            }
+        },
+        "storeDistance": 13.9979,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "8281",
+        "description": null,
+        "seconds": 55
+    },
+    {
+        "name": "Costco Wireless Advocates South San Francisco Kiosk",
+        "url": "https://www.t-mobile.com/store-locator/ca/south-san-francisco/costco-wireless-advocates-south-san-francisco-kiosk",
+        "inStoreAppointment": false,
+        "spanish": false,
+        "telephone": "650-871-0458",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:30",
+                "formattedCloses": "8:30pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:30",
+                "formattedCloses": "8:30pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:30",
+                "formattedCloses": "8:30pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:30",
+                "formattedCloses": "8:30pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:30",
+                "formattedCloses": "8:30pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Saturday",
+                "opens": "09:30",
+                "formattedOpens": "9:30am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": null,
+        "location": {
+            "latitude": 37.64215,
+            "utcOffset": -7,
+            "longitude": -122.40125,
+            "address": {
+                "addressLocality": "South San Francisco",
+                "addressRegion": "CA",
+                "streetAddress": "451 S Airport Blvd",
+                "postalCode": "94080"
+            }
+        },
+        "storeDistance": 3.332,
+        "services": null,
+        "inStoreWaitTime": null,
+        "type": "National Retail",
+        "id": "500079909",
+        "description": null,
+        "seconds": 35
+    },
+    {
+        "name": "Lexington Ave & Grey Fox Rd",
+        "url": "https://www.t-mobile.com/store-locator/mn/arden-hills/lexington-ave-grey-fox-rd",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "612-284-6885",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(TPR)Third Party Retail",
+        "location": {
+            "latitude": 45.0516089,
+            "utcOffset": -5,
+            "longitude": -93.1484422,
+            "address": {
+                "addressLocality": "Arden Hills",
+                "addressRegion": "MN",
+                "streetAddress": "3673 Lexington Ave N Spc 5",
+                "postalCode": "55126"
+            }
+        },
+        "storeDistance": 5.6983,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "615E",
+        "description": null,
+        "seconds": 33
+    },
+    {
+        "name": "Hwy 880 & Hegenberger",
+        "url": "https://www.t-mobile.com/store-locator/ca/oakland/hwy-880-hegenberger",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "510-635-1337",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 37.7379373,
+            "utcOffset": -7,
+            "longitude": -122.1974117,
+            "address": {
+                "addressLocality": "Oakland",
+                "addressRegion": "CA",
+                "streetAddress": "8460 Edgewater Dr Ste A",
+                "postalCode": "94621"
+            }
+        },
+        "storeDistance": 15.5741,
+        "services": null,
+        "inStoreWaitTime": "C",
+        "type": "RETAIL",
+        "id": "8306",
+        "description": null,
+        "seconds": 120
+    },
+    {
+        "name": "Costco Wireless Advocates Maplewood Kiosk",
+        "url": "https://www.t-mobile.com/store-locator/mn/maplewood/costco-wireless-advocates-maplewood-kiosk",
+        "inStoreAppointment": false,
+        "spanish": false,
+        "telephone": "612-486-1776",
+        "holidays": null,
+        "hours": null,
+        "photos": null,
+        "storeDefinition": null,
+        "location": {
+            "latitude": 45.0294353,
+            "utcOffset": -5,
+            "longitude": -93.040435,
+            "address": {
+                "addressLocality": "Maplewood",
+                "addressRegion": "MN",
+                "streetAddress": "1431 Beam Ave",
+                "postalCode": "55109"
+            }
+        },
+        "storeDistance": 0.9713,
+        "services": null,
+        "inStoreWaitTime": null,
+        "type": "National Retail",
+        "id": "500082158",
+        "description": null,
+        "seconds": 31
+    },
+    {
+        "name": "Summit Ave & 8th St",
+        "url": "https://www.t-mobile.com/store-locator/nj/union-city/summit-ave-8th-st",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "201-770-0606",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "17:00",
+                "formattedCloses": "5pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(TPR)Third Party Retail",
+        "location": {
+            "latitude": 40.7590731,
+            "utcOffset": -4,
+            "longitude": -74.0430709,
+            "address": {
+                "addressLocality": "Union City",
+                "addressRegion": "NJ",
+                "streetAddress": "808 Summit Ave",
+                "postalCode": "07087"
+            }
+        },
+        "storeDistance": 2.3285,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "908C",
+        "description": null,
+        "seconds": 136
+    },
+    {
+        "name": "Mall of America 3",
+        "url": "https://www.t-mobile.com/store-locator/mn/bloomington/mall-of-america-3",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "763-251-0671",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Saturday",
+                "opens": "09:30",
+                "formattedOpens": "9:30am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 44.8550649,
+            "utcOffset": -5,
+            "longitude": -93.2394701,
+            "address": {
+                "addressLocality": "Bloomington",
+                "addressRegion": "MN",
+                "streetAddress": "156 E Broadway",
+                "postalCode": "55425"
+            }
+        },
+        "storeDistance": 14.6604,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "4724",
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Bloomington.\n  \nWe are located on the first floor, 3 stores south of the rotunda across from Old Navy. Information kiosks will show you exactly how to get here. The east parking ramp is the closest parking to our location.",
+        "seconds": 77
+    },
+    {
+        "name": "IDS Crystal Court 2",
+        "url": "https://www.t-mobile.com/store-locator/mn/minneapolis/ids-crystal-court-2",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "612-339-2481",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Monday",
+                "opens": "08:00",
+                "formattedOpens": "8am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Tuesday",
+                "opens": "08:00",
+                "formattedOpens": "8am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Wednesday",
+                "opens": "08:00",
+                "formattedOpens": "8am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Thursday",
+                "opens": "08:00",
+                "formattedOpens": "8am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Friday",
+                "opens": "08:00",
+                "formattedOpens": "8am"
+            },
+            {
+                "closes": "17:00",
+                "formattedCloses": "5pm",
+                "day": "Saturday",
+                "opens": "12:00",
+                "formattedOpens": "12pm"
+            },
+            {
+                "closes": null,
+                "formattedCloses": null,
+                "day": "Sunday",
+                "opens": null,
+                "formattedOpens": null
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 44.9760258,
+            "utcOffset": -5,
+            "longitude": -93.2724534,
+            "address": {
+                "addressLocality": "Minneapolis",
+                "addressRegion": "MN",
+                "streetAddress": "80 S 8th St Ste 205",
+                "postalCode": "55402"
+            }
+        },
+        "storeDistance": 11.5174,
+        "services": null,
+        "inStoreWaitTime": "C",
+        "type": "RETAIL",
+        "id": "1062",
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Minneapolis.\n  \nWe are located on the second floor of the IDS Center, across from Potbelly.",
+        "seconds": 60
+    },
+    {
+        "name": "Apple Store New York R582 Kiosk",
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/apple-store-new-york-r582-kiosk",
+        "inStoreAppointment": false,
+        "spanish": false,
+        "telephone": null,
+        "holidays": null,
+        "hours": null,
+        "photos": null,
+        "storeDefinition": null,
+        "location": {
+            "latitude": 40.77335,
+            "utcOffset": -4,
+            "longitude": -73.96447,
+            "address": {
+                "addressLocality": "New York",
+                "addressRegion": "NY",
+                "streetAddress": "940 Madison Ave",
+                "postalCode": "10021"
+            }
+        },
+        "storeDistance": 2.2684,
+        "services": null,
+        "inStoreWaitTime": null,
+        "type": "National Retail",
+        "id": "500103328",
+        "description": null,
+        "seconds": 0
+    },
+    {
+        "name": "El Camino Real & Whipple",
+        "url": "https://www.t-mobile.com/store-locator/ca/redwood-city/el-camino-real-whipple",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "650-366-4976",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 37.4903299,
+            "utcOffset": -7,
+            "longitude": -122.2402625,
+            "address": {
+                "addressLocality": "Redwood City",
+                "addressRegion": "CA",
+                "streetAddress": "490 El Camino Real Ste 130",
+                "postalCode": "94062"
+            }
+        },
+        "storeDistance": 12.1875,
+        "services": null,
+        "inStoreWaitTime": "C",
+        "type": "RETAIL",
+        "id": "7976",
+        "description": null,
+        "seconds": 127
+    },
+    {
+        "name": "US 25 & Stanford Rd",
+        "url": "https://www.t-mobile.com/store-locator/sc/greenville/us-25-stanford-rd",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "864-729-2217",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "12:00",
+                "formattedOpens": "12pm"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(TPR)Third Party Retail",
+        "location": {
+            "latitude": 34.8562551,
+            "utcOffset": -4,
+            "longitude": -82.454511,
+            "address": {
+                "addressLocality": "Greenville",
+                "addressRegion": "SC",
+                "streetAddress": "6134 White Horse Rd Ste 11",
+                "postalCode": "29611"
+            }
+        },
+        "storeDistance": 14.4648,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "4707",
+        "description": null,
+        "seconds": 29
+    },
+    {
+        "name": "Plymouth & Cartway Lane",
+        "url": "https://www.t-mobile.com/store-locator/mn/minnetonka/plymouth-cartway-lane",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "952-679-8964",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "21:00",
+                "formattedCloses": "9pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:00",
+                "formattedCloses": "9pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:00",
+                "formattedCloses": "9pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:00",
+                "formattedCloses": "9pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:00",
+                "formattedCloses": "9pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 44.9673986,
+            "utcOffset": -5,
+            "longitude": -93.4433766,
+            "address": {
+                "addressLocality": "Minnetonka",
+                "addressRegion": "MN",
+                "streetAddress": "1700 Plymouth Road Ste B",
+                "postalCode": "55305"
+            }
+        },
+        "storeDistance": 19.8251,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "878C",
+        "description": null,
+        "seconds": 50
+    },
+    {
+        "name": "El Camino Real & Sheridan Ave",
+        "url": "https://www.t-mobile.com/store-locator/ca/palo-alto/el-camino-real-sheridan-ave",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "650-327-1343",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "18:00",
+                "formattedCloses": "6pm",
+                "day": "Sunday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 37.4238687,
+            "utcOffset": -7,
+            "longitude": -122.143092,
+            "address": {
+                "addressLocality": "Palo Alto",
+                "addressRegion": "CA",
+                "streetAddress": "2675 El Camino Real Ste B",
+                "postalCode": "94306"
+            }
+        },
+        "storeDistance": 19.2141,
+        "services": null,
+        "inStoreWaitTime": "C",
+        "type": "RETAIL",
+        "id": "9879",
+        "description": null,
+        "seconds": 28
+    },
+    {
+        "name": "Mall of America",
+        "url": "https://www.t-mobile.com/store-locator/mn/minneapolis/mall-of-america",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "952-854-7469",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "21:30",
+                "formattedCloses": "9:30pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 44.8547985,
+            "utcOffset": -5,
+            "longitude": -93.2421109,
+            "address": {
+                "addressLocality": "Minneapolis",
+                "addressRegion": "MN",
+                "streetAddress": "382 North Garden",
+                "postalCode": "55425"
+            }
+        },
+        "storeDistance": 14.7592,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "1063",
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Minneapolis.\n  \nWe are on the 3rd floor in the Mall of America.  Park on the 4th floor of the West Ramp.  We're near Nordstrom's, next to Just Tuff Jeans, opposite the food court.",
+        "seconds": 90
+    },
+    {
+        "name": "Manhattan Ave & Meserole Ave",
+        "url": "https://www.t-mobile.com/store-locator/ny/brooklyn/manhattan-ave-meserole-ave",
+        "inStoreAppointment": true,
+        "spanish": false,
+        "telephone": "718-389-6180",
+        "holidays": null,
+        "hours": [
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Monday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Tuesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Wednesday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Thursday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Friday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "20:00",
+                "formattedCloses": "8pm",
+                "day": "Saturday",
+                "opens": "10:00",
+                "formattedOpens": "10am"
+            },
+            {
+                "closes": "19:00",
+                "formattedCloses": "7pm",
+                "day": "Sunday",
+                "opens": "11:00",
+                "formattedOpens": "11am"
+            }
+        ],
+        "photos": null,
+        "storeDefinition": "(FPR)First Party Retail",
+        "location": {
+            "latitude": 40.727116,
+            "utcOffset": -4,
+            "longitude": -73.9530049,
+            "address": {
+                "addressLocality": "Brooklyn",
+                "addressRegion": "NY",
+                "streetAddress": "771 Manhattan Ave",
+                "postalCode": "11222"
+            }
+        },
+        "storeDistance": 3.0355,
+        "services": null,
+        "inStoreWaitTime": "0",
+        "type": "RETAIL",
+        "id": "8476",
+        "description": null,
+        "seconds": 32
+    }
+]
