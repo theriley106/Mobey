@@ -3,6 +3,7 @@ from twilio.twiml.voice_response import VoiceResponse, Gather
 from twilio.rest import Client
 from keys import *
 import requests
+import search
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -10,15 +11,6 @@ def genSpeech(speech, stayOpen=True):
 	return {
 	    'fulfillmentText': speech
 	}
-
-def long_lat_to_address(longVal, lat):
-	res = requests.get("https://maps.googleapis.com/maps/api/geocode/json?latlng={},{}&key={}".format(lat, longVal, google))
-	return res.json()['results'][0]['formatted_address']
-
-def address_to_long_lat(address):
-	address = address.replace(" ", "+")
-	res = requests.get("https://maps.googleapis.com/maps/api/geocode/json?address={}&key={}".format(address, google))
-	return res.json()['results'][0]['geometry']['location']
 
 @app.route('/', methods=['GET'])
 def index():
