@@ -1,6 +1,7 @@
 import requests
 import bs4
 from keys import *
+import json
 
 def long_lat_to_address(longVal, lat):
 	res = requests.get("https://maps.googleapis.com/maps/api/geocode/json?latlng={},{}&key={}".format(lat, longVal, google))
@@ -13,7 +14,7 @@ def address_to_long_lat(address):
 
 def find_stores(longLatDict):
 	res = requests.get("https://onmyj41p3c.execute-api.us-west-2.amazonaws.com/prod/getStoresByCoordinates?latitude={}&longitude={}&count=50&radius=20&ignoreLoadingBar=false".format(longLatDict['lat'], longLatDict['lng']))
-	return res.json()[0]
+	return res.json()
 
 def store_by_zip(zipCode):
 	a = address_to_long_lat(zipCode)
@@ -73,7 +74,13 @@ def search(query):
 			return y
 
 if __name__ == '__main__':
-	print store_by_zip("29680")
+	g = []
+	g += store_by_zip("29680")
+	g += store_by_zip("10001")
+	g +=  store_by_zip("94030")
+	g += store_by_zip("55109")
+	with open('data.json', 'w') as outfile:
+		json.dump(g, outfile, indent=4)
 	query = raw_input("Query: ")
 	val = search(query)
 	raw_input(val)
