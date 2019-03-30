@@ -1,6 +1,23 @@
 import requests
 import bs4
+from keys import *
 
+def long_lat_to_address(longVal, lat):
+	res = requests.get("https://maps.googleapis.com/maps/api/geocode/json?latlng={},{}&key={}".format(lat, longVal, google))
+	return res.json()['results'][0]['formatted_address']
+
+def address_to_long_lat(address):
+	address = address.replace(" ", "+")
+	res = requests.get("https://maps.googleapis.com/maps/api/geocode/json?address={}&key={}".format(address, google))
+	return res.json()['results'][0]['geometry']['location']
+
+def find_stores(longLatDict):
+	res = requests.get("https://onmyj41p3c.execute-api.us-west-2.amazonaws.com/prod/getStoresByCoordinates?latitude={}&longitude={}&count=50&radius=20&ignoreLoadingBar=false".format(longLatDict['lat'], longLatDict['lng']))
+	return res.json()[0]
+
+def store_by_zip(zipCode):
+	a = address_to_long_lat(zipCode)
+	return find_stores(a)
 
 def check_stock(itemNum):
 	headers = {
@@ -56,6 +73,7 @@ def search(query):
 			return y
 
 if __name__ == '__main__':
+	print store_by_zip("29680")
 	query = raw_input("Query: ")
 	val = search(query)
 	raw_input(val)
