@@ -6,7 +6,7 @@ if __name__ == '__main__':
 		[2] Chris
 		[3] Nathan
 		""")
-	personVal = raw_input("Who is this (1,2,3)? ")
+	personVal = input("Who is this (1,2,3)? ")
 	g = {'1': "ayush", '2': 'chris', '3': 'nathan'}
 	a = json.load(open(g[personVal] + ".json"))
 	try:
@@ -26,11 +26,11 @@ if __name__ == '__main__':
 			pass
 	for val in a:
 		print("Call: {}".format(val['telephone']))
-		raw_input("Click Enter When Done")
+		input("Click Enter When Done")
 		correctVal = False
-		timeVal = raw_input("Call Time (Seconds): ")
-		while raw_input("Is {} seconds Correct? (Y/N) ".format(timeVal)).lower() != "y":
-			timeVal = raw_input("Call Time (Seconds): ")
+		timeVal = input("Call Time (Seconds): ")
+		while input("Is {} seconds Correct? (Y/N) ".format(timeVal)).lower() != "y":
+			timeVal = input("Call Time (Seconds): ")
 		try:
 			val['seconds'] = int(timeVal)
 		except:
