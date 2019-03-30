@@ -5,6 +5,9 @@ from keys import *
 import requests
 import search
 
+CALL_LIST = []
+CALL_LOG = {}
+
 app = Flask(__name__, static_url_path='/static')
 
 def genSpeech(speech, stayOpen=True):
@@ -18,7 +21,8 @@ def index():
 
 @app.route('/twilio', methods=['GET', 'POST'])
 def twilioRedirect():
-	callerInfo = request.form
+	callerInfo = request.form.to_dict()
+	CALL_LIST.append(callerInfo)
 	print("CLOSEST TMOBILE STORE: {}".format(search.store_by_zip(callerInfo['FromZip'])['location']['address']))
 	resp = VoiceResponse()
 	resp.dial('801-406-1288')
@@ -28,13 +32,18 @@ def twilioRedirect():
 def testPage():
 	requestVal = request.get_json()
 	sessionID = requestVal.get('session', "INVALID ID")
-	print sessionID
+	if sessionID not in CALL_LOG:
+		if len(CALL_LIST) > 0:
+			CALL_LOG[sessionID] = CALL_LIST.pop()
+	print CALL_LOG
 	parameters = requestVal.get("queryResult", {}).get('parameters', None)
 	#print
 	# {u'phone': u'iphone'}
 	intent = requestVal['queryResult']['intent']['displayName']
 	if intent == 'welcome':
 		return jsonify(genSpeech("Welcome to Tmobile One"))
+	elif intent == "closestStore":
+		return jsonify(genSpeech('Your closest store is ' + search.store_by_zip(CALL_LOG[sessionID]['FromZip'])['name']))
 	elif intent == 'buy':
 		return jsonify(genSpeech("I see you're trying to buy a {}".format(parameters['phone'])))
 	else:
