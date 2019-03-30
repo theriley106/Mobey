@@ -23,7 +23,7 @@ def index():
 def twilioRedirect():
 	callerInfo = request.form.to_dict()
 	CALL_LIST.append(callerInfo)
-	print("CLOSEST TMOBILE STORE: {}".format(search.store_by_zip(callerInfo['FromZip'])['location']['address']))
+	print("CLOSEST TMOBILE STORE: {}".format(search.store_by_zip(callerInfo['FromZip'])[0]['location']['address']))
 	resp = VoiceResponse()
 	resp.dial('801-406-1288')
 	return str(resp)
@@ -37,15 +37,17 @@ def testPage():
 			CALL_LOG[sessionID] = CALL_LIST.pop()
 	print CALL_LOG
 	parameters = requestVal.get("queryResult", {}).get('parameters', None)
-	#print
+	print parameters
 	# {u'phone': u'iphone'}
 	intent = requestVal['queryResult']['intent']['displayName']
 	if intent == 'welcome':
-		return jsonify(genSpeech("Welcome to Tmobile One"))
+		return jsonify(genSpeech("Thanks for calling Tmobile One.  What can I help you with today?"))
 	elif intent == "closestStore":
 		return jsonify(genSpeech('Your closest store is ' + search.store_by_zip(CALL_LOG[sessionID]['FromZip'])['name']))
 	elif intent == 'buy':
 		return jsonify(genSpeech("I see you're trying to buy a {}".format(parameters['phone'])))
+	elif intent == 'payBill':
+		return jsonify(genSpeech("Bill has been successfully paid.  We have sent you a text message will your payment receipt.  Note that this message will not count towards your text allowance.  Is there anything else I can help you with today?"))
 	else:
 		return jsonify(genSpeech("I'm not sure what intent you called but okay"))
 
