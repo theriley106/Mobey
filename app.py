@@ -19,7 +19,7 @@ def index():
 @app.route('/twilio', methods=['GET', 'POST'])
 def twilioRedirect():
 	callerInfo = request.form
-	print callerInfo['FromZip']
+	print("CLOSEST TMOBILE STORE: {}".format(search.store_by_zip(callerInfo['FromZip'])['location']['address']))
 	resp = VoiceResponse()
 	resp.dial('801-406-1288')
 	return str(resp)
@@ -43,5 +43,5 @@ def testPage():
 
 if __name__ == '__main__':
 	#print long_lat_to_address("-84.3880", "33.7490")
-	print address_to_long_lat("94030")
-	#app.run(host='0.0.0.0', port=5000, debug=True)
+	#print address_to_long_lat("94030")
+	app.run(host='0.0.0.0', port=5000, debug=True)
