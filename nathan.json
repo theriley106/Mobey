@@ -1,0 +1,1122 @@
+[
+    {
+        "name": "Stonestown", 
+        "url": "https://www.t-mobile.com/store-locator/ca/san-francisco/stonestown", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "415-753-3050", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "12:00", 
+                "formattedOpens": "12pm"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 37.7280817, 
+            "utcOffset": -7, 
+            "longitude": -122.4770808, 
+            "address": {
+                "addressLocality": "San Francisco", 
+                "addressRegion": "CA", 
+                "streetAddress": "3251 20th Ave Ste 142", 
+                "postalCode": "94132"
+            }
+        }, 
+        "storeDistance": 9.6833, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "2933", 
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in San Francisco.\n  \nWe are inside next to Macy's."
+    }, 
+    {
+        "name": "Mission St & 20th St", 
+        "url": "https://www.t-mobile.com/store-locator/ca/san-francisco/mission-st-20th-st", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "415-206-0128", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 37.7590802, 
+            "utcOffset": -7, 
+            "longitude": -122.4189018, 
+            "address": {
+                "addressLocality": "San Francisco", 
+                "addressRegion": "CA", 
+                "streetAddress": "2369 Mission St", 
+                "postalCode": "94110"
+            }
+        }, 
+        "storeDistance": 11.2783, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "9848", 
+        "description": null
+    }, 
+    {
+        "name": "Northtown Mall #2", 
+        "url": "https://www.t-mobile.com/store-locator/mn/blaine/northtown-mall-2", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "763-786-4021", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 45.1272526, 
+            "utcOffset": -5, 
+            "longitude": -93.2594187, 
+            "address": {
+                "addressLocality": "Blaine", 
+                "addressRegion": "MN", 
+                "streetAddress": "254 Northtown Dr NE Spc 22", 
+                "postalCode": "55434"
+            }
+        }, 
+        "storeDistance": 13.063, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "5116", 
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Blaine.\n  \nUse the North door of the Northtown mall. We're between Pac Sun and Jouney's."
+    }, 
+    {
+        "name": "Broadway & 77th", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/broadway-77th", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-580-4381", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Saturday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7827725, 
+            "utcOffset": -4, 
+            "longitude": -73.9810382, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "2181 Broadway", 
+                "postalCode": "10024"
+            }
+        }, 
+        "storeDistance": 2.2229, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "7774", 
+        "description": null
+    }, 
+    {
+        "name": "Costco Wireless Advocates El Camino Real Kiosk", 
+        "url": "https://www.t-mobile.com/store-locator/ca/south-san-francisco/costco-wireless-advocates-el-camino-real-kiosk", 
+        "inStoreAppointment": false, 
+        "spanish": false, 
+        "telephone": "650-994-2934", 
+        "holidays": null, 
+        "hours": null, 
+        "photos": null, 
+        "storeDefinition": null, 
+        "location": {
+            "latitude": 37.66553, 
+            "utcOffset": -7, 
+            "longitude": -122.44834, 
+            "address": {
+                "addressLocality": "South San Francisco", 
+                "addressRegion": "CA", 
+                "streetAddress": "1600 El Camino Real", 
+                "postalCode": "94080"
+            }
+        }, 
+        "storeDistance": 5.0838, 
+        "services": null, 
+        "inStoreWaitTime": null, 
+        "type": "National Retail", 
+        "id": "500082329", 
+        "description": null
+    }, 
+    {
+        "name": "86th & 2nd", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/86th-2nd", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-535-6604", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Monday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Tuesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Wednesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Thursday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Friday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.777884, 
+            "utcOffset": -4, 
+            "longitude": -73.9530193, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "228 E 86th St", 
+                "postalCode": "10028"
+            }
+        }, 
+        "storeDistance": 2.938, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "7719", 
+        "description": null
+    }, 
+    {
+        "name": "Crest View Dr & Okeete Rd 2", 
+        "url": "https://www.t-mobile.com/store-locator/wi/hudson/crest-view-dr-okeete-rd-2", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "715-808-0004", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "17:00", 
+                "formattedCloses": "5pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 44.9619222, 
+            "utcOffset": -5, 
+            "longitude": -92.7323494, 
+            "address": {
+                "addressLocality": "Hudson", 
+                "addressRegion": "WI", 
+                "streetAddress": "1920 Crest View Dr", 
+                "postalCode": "54016"
+            }
+        }, 
+        "storeDistance": 15.6553, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "4334", 
+        "description": null
+    }, 
+    {
+        "name": "Newport Centre 7", 
+        "url": "https://www.t-mobile.com/store-locator/nj/jersey-city/newport-centre-7", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "201-779-5812", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7268935, 
+            "utcOffset": -4, 
+            "longitude": -74.0384337, 
+            "address": {
+                "addressLocality": "Jersey City", 
+                "addressRegion": "NJ", 
+                "streetAddress": "30 Mall Drive West Ste B2b", 
+                "postalCode": "07310"
+            }
+        }, 
+        "storeDistance": 2.7672, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "2941", 
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Jersey City.\n  \nWe are located on the upper level of Newport Centre next to JCPenney."
+    }, 
+    {
+        "name": "Rosedale Center 4", 
+        "url": "https://www.t-mobile.com/store-locator/mn/roseville/rosedale-center-4", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "651-635-9000", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 45.0129204, 
+            "utcOffset": -5, 
+            "longitude": -93.1726353, 
+            "address": {
+                "addressLocality": "Roseville", 
+                "addressRegion": "MN", 
+                "streetAddress": "10 Rosedale Center Ste 115", 
+                "postalCode": "55113"
+            }
+        }, 
+        "storeDistance": 6.3109, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "2297", 
+        "description": null
+    }, 
+    {
+        "name": "Bergenline & 66th 2", 
+        "url": "https://www.t-mobile.com/store-locator/nj/west-new-york/bergenline-66th-2", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "201-766-9369", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "17:00", 
+                "formattedCloses": "5pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 40.7937203, 
+            "utcOffset": -4, 
+            "longitude": -74.0124872, 
+            "address": {
+                "addressLocality": "West New York", 
+                "addressRegion": "NJ", 
+                "streetAddress": "6604 Bergenline Ave", 
+                "postalCode": "07093"
+            }
+        }, 
+        "storeDistance": 2.8534, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "549", 
+        "description": null
+    }, 
+    {
+        "name": "W Butler Rd & N Main St", 
+        "url": "https://www.t-mobile.com/store-locator/sc/mauldin/w-butler-rd-n-main-st", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "864-520-1197", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "12:00", 
+                "formattedOpens": "12pm"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 34.7766945, 
+            "utcOffset": -4, 
+            "longitude": -82.3135646, 
+            "address": {
+                "addressLocality": "Mauldin", 
+                "addressRegion": "SC", 
+                "streetAddress": "219 W Butler Rd", 
+                "postalCode": "29662"
+            }
+        }, 
+        "storeDistance": 5.7372, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "757D", 
+        "description": null
+    }, 
+    {
+        "name": "9th & Lincoln Avenue", 
+        "url": "https://www.t-mobile.com/store-locator/ca/san-francisco/9th-lincoln-avenue", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "415-682-9953", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 37.76560275748272, 
+            "utcOffset": -7, 
+            "longitude": -122.46622502803802, 
+            "address": {
+                "addressLocality": "San Francisco", 
+                "addressRegion": "CA", 
+                "streetAddress": "1210 9th Ave R-1101", 
+                "postalCode": "94122"
+            }
+        }, 
+        "storeDistance": 12.017, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "7779", 
+        "description": null
+    }, 
+    {
+        "name": "1st Avenue & 14th Street", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/1st-avenue-14th-street", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "646-329-4888", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7310871, 
+            "utcOffset": -4, 
+            "longitude": -73.9824392, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "400 E 14th St", 
+                "postalCode": "10009"
+            }
+        }, 
+        "storeDistance": 1.7906, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "4018", 
+        "description": null
+    }, 
+    {
+        "name": "57th & 7th", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/57th-7th", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-586-4979", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7655424, 
+            "utcOffset": -4, 
+            "longitude": -73.9795325, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "167 W 57th St", 
+                "postalCode": "10019"
+            }
+        }, 
+        "storeDistance": 1.3144, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "7639", 
+        "description": null
+    }, 
+    {
+        "name": "Bergenline & 35th", 
+        "url": "https://www.t-mobile.com/store-locator/nj/union-city/bergenline-35th", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "201-713-9992", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:30", 
+                "formattedCloses": "7:30pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 40.7732629, 
+            "utcOffset": -4, 
+            "longitude": -74.0280499, 
+            "address": {
+                "addressLocality": "Union City", 
+                "addressRegion": "NJ", 
+                "streetAddress": "3414 Bergenline Ave", 
+                "postalCode": "07087"
+            }
+        }, 
+        "storeDistance": 2.029, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "4259", 
+        "description": null
+    }
+]

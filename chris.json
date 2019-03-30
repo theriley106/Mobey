@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "Serramonte 3", 
+        "url": "https://www.t-mobile.com/store-locator/ca/daly-city/serramonte-3", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "650-997-3015", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 37.669556, 
+            "utcOffset": -7, 
+            "longitude": -122.4689878, 
+            "address": {
+                "addressLocality": "Daly City", 
+                "addressRegion": "CA", 
+                "streetAddress": "124 Serramonte Ctr Ste 718", 
+                "postalCode": "94015"
+            }
+        }, 
+        "storeDistance": 5.795, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "7361", 
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Daly City.\n  \nWe are located inside the Serramonte mall, next to Sears."
+    }, 
+    {
+        "name": "Newport Centre 8", 
+        "url": "https://www.t-mobile.com/store-locator/nj/jersey-city/newport-centre-8", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "201-714-9976", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "21:30", 
+                "formattedCloses": "9:30pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 40.7268935, 
+            "utcOffset": -4, 
+            "longitude": -74.0384337, 
+            "address": {
+                "addressLocality": "Jersey City", 
+                "addressRegion": "NJ", 
+                "streetAddress": "30 Mall Dr W Ste L201", 
+                "postalCode": "07310"
+            }
+        }, 
+        "storeDistance": 2.7672, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "2515", 
+        "description": "Are you ready to upgrade to the new iPhone? Maybe you are looking for a new Android device from Samsung, Google, or LG. You can find them all at this T-Mobile Store in Jersey City.\n  \nWe're in Newport Centre across from CVS, close to JCPenney."
+    }, 
+    {
+        "name": "Arcade & Neid 3", 
+        "url": "https://www.t-mobile.com/store-locator/mn/saint-paul/arcade-neid-3", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "651-774-0428", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 44.9675383, 
+            "utcOffset": -5, 
+            "longitude": -93.0646399, 
+            "address": {
+                "addressLocality": "Saint Paul", 
+                "addressRegion": "MN", 
+                "streetAddress": "878 Arcade St", 
+                "postalCode": "55106"
+            }
+        }, 
+        "storeDistance": 3.4751, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "1714", 
+        "description": null
+    }, 
+    {
+        "name": "Costco Wireless Advocates Maple Grove Kiosk", 
+        "url": "https://www.t-mobile.com/store-locator/mn/maple-grove/costco-wireless-advocates-maple-grove-kiosk", 
+        "inStoreAppointment": false, 
+        "spanish": false, 
+        "telephone": "763-494-8088", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:30", 
+                "formattedCloses": "8:30pm", 
+                "day": "Monday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }, 
+            {
+                "closes": "20:30", 
+                "formattedCloses": "8:30pm", 
+                "day": "Tuesday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }, 
+            {
+                "closes": "20:30", 
+                "formattedCloses": "8:30pm", 
+                "day": "Wednesday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }, 
+            {
+                "closes": "20:30", 
+                "formattedCloses": "8:30pm", 
+                "day": "Thursday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }, 
+            {
+                "closes": "20:30", 
+                "formattedCloses": "8:30pm", 
+                "day": "Friday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Saturday", 
+                "opens": "09:30", 
+                "formattedOpens": "9:30am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "09:30", 
+                "formattedOpens": "9:30am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": null, 
+        "location": {
+            "latitude": 45.0930235, 
+            "utcOffset": -5, 
+            "longitude": -93.4238263, 
+            "address": {
+                "addressLocality": "Maple Grove", 
+                "addressRegion": "MN", 
+                "streetAddress": "11330 Fountains Dr N", 
+                "postalCode": "55369"
+            }
+        }, 
+        "storeDistance": 19.3245, 
+        "services": null, 
+        "inStoreWaitTime": null, 
+        "type": "National Retail", 
+        "id": "500081440", 
+        "description": null
+    }, 
+    {
+        "name": "Broadway & 96th St", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/broadway-96th-st", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-222-5080", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.79491, 
+            "utcOffset": -4, 
+            "longitude": -73.971955, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "2563 Broadway", 
+                "postalCode": "10025"
+            }
+        }, 
+        "storeDistance": 3.1852, 
+        "services": null, 
+        "inStoreWaitTime": "13", 
+        "type": "RETAIL", 
+        "id": "9076", 
+        "description": null
+    }, 
+    {
+        "name": "W Broadway & Everton", 
+        "url": "https://www.t-mobile.com/store-locator/mn/forest-lake/w-broadway-everton", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "651-272-5326", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 45.2831428, 
+            "utcOffset": -5, 
+            "longitude": -93.0107518, 
+            "address": {
+                "addressLocality": "Forest Lake", 
+                "addressRegion": "MN", 
+                "streetAddress": "2009 W Broadway Ave Ste 100A", 
+                "postalCode": "55025"
+            }
+        }, 
+        "storeDistance": 18.5629, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "4803", 
+        "description": null
+    }, 
+    {
+        "name": "46th St & 6th", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/46th-st-6th", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-302-0954", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "08:30", 
+                "formattedOpens": "8:30am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "08:30", 
+                "formattedOpens": "8:30am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "08:30", 
+                "formattedOpens": "8:30am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "08:30", 
+                "formattedOpens": "8:30am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "08:30", 
+                "formattedOpens": "8:30am"
+            }, 
+            {
+                "closes": "19:00", 
+                "formattedCloses": "7pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7575375, 
+            "utcOffset": -4, 
+            "longitude": -73.9817901, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "1180 6th Ave", 
+                "postalCode": "10036"
+            }
+        }, 
+        "storeDistance": 0.9476, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "8900", 
+        "description": null
+    }, 
+    {
+        "name": "Costco Wireless Advocates Coon Rapids Kiosk", 
+        "url": "https://www.t-mobile.com/store-locator/mn/coon-rapids/costco-wireless-advocates-coon-rapids-kiosk", 
+        "inStoreAppointment": false, 
+        "spanish": false, 
+        "telephone": "763-421-0319", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "22:00", 
+                "formattedCloses": "10pm", 
+                "day": "Monday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "22:00", 
+                "formattedCloses": "10pm", 
+                "day": "Tuesday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "22:00", 
+                "formattedCloses": "10pm", 
+                "day": "Wednesday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "22:00", 
+                "formattedCloses": "10pm", 
+                "day": "Thursday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "22:00", 
+                "formattedCloses": "10pm", 
+                "day": "Friday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Saturday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }, 
+            {
+                "closes": "21:00", 
+                "formattedCloses": "9pm", 
+                "day": "Sunday", 
+                "opens": "08:00", 
+                "formattedOpens": "8am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": null, 
+        "location": {
+            "latitude": 45.197068, 
+            "utcOffset": -5, 
+            "longitude": -93.350032, 
+            "address": {
+                "addressLocality": "Coon Rapids", 
+                "addressRegion": "MN", 
+                "streetAddress": "12547 Riverdale Blvd", 
+                "postalCode": "55433"
+            }
+        }, 
+        "storeDistance": 19.5174, 
+        "services": null, 
+        "inStoreWaitTime": null, 
+        "type": "National Retail", 
+        "id": "500080426", 
+        "description": null
+    }, 
+    {
+        "name": "France & Old Shakopee 2", 
+        "url": "https://www.t-mobile.com/store-locator/mn/bloomington/france-old-shakopee-2", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "612-442-1580", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 44.8096311, 
+            "utcOffset": -5, 
+            "longitude": -93.3299593, 
+            "address": {
+                "addressLocality": "Bloomington", 
+                "addressRegion": "MN", 
+                "streetAddress": "10700 France Ave S Ste 108", 
+                "postalCode": "55431"
+            }
+        }, 
+        "storeDistance": 19.9773, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "4739", 
+        "description": null
+    }, 
+    {
+        "name": "9th Ave & 43rd St", 
+        "url": "https://www.t-mobile.com/store-locator/ny/new-york/9th-ave-43rd-st", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "212-956-7642", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "09:00", 
+                "formattedOpens": "9am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 40.7592877, 
+            "utcOffset": -4, 
+            "longitude": -73.9915885, 
+            "address": {
+                "addressLocality": "New York", 
+                "addressRegion": "NY", 
+                "streetAddress": "610 9th Ave", 
+                "postalCode": "10036"
+            }
+        }, 
+        "storeDistance": 0.5543, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "9153", 
+        "description": null
+    }, 
+    {
+        "name": "Calhoun Memorial", 
+        "url": "https://www.t-mobile.com/store-locator/sc/easley/calhoun-memorial", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "864-306-6802", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "12:00", 
+                "formattedOpens": "12pm"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(FPR)First Party Retail", 
+        "location": {
+            "latitude": 34.82251, 
+            "utcOffset": -4, 
+            "longitude": -82.5808547, 
+            "address": {
+                "addressLocality": "Easley", 
+                "addressRegion": "SC", 
+                "streetAddress": "6211 Calhoun Memorial Hwy", 
+                "postalCode": "29640"
+            }
+        }, 
+        "storeDistance": 18.6474, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "9401", 
+        "description": null
+    }, 
+    {
+        "name": "Industrial Highway & Hwy 92", 
+        "url": "https://www.t-mobile.com/store-locator/ca/hayward/industrial-highway-hwy-92", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "510-732-5500", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "17:00", 
+                "formattedCloses": "5pm", 
+                "day": "Sunday", 
+                "opens": "12:00", 
+                "formattedOpens": "12pm"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 37.6332493, 
+            "utcOffset": -7, 
+            "longitude": -122.1113923, 
+            "address": {
+                "addressLocality": "Hayward", 
+                "addressRegion": "CA", 
+                "streetAddress": "25965 Industrial Boulevard Ste 105", 
+                "postalCode": "94545"
+            }
+        }, 
+        "storeDistance": 17.0053, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "4158", 
+        "description": null
+    }, 
+    {
+        "name": "Broadway & Bass Lake Rd", 
+        "url": "https://www.t-mobile.com/store-locator/mn/crystal/broadway-bass-lake-rd", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "763-432-7948", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 45.0542908, 
+            "utcOffset": -5, 
+            "longitude": -93.3659493, 
+            "address": {
+                "addressLocality": "Crystal", 
+                "addressRegion": "MN", 
+                "streetAddress": "5559 W Broadway Ave", 
+                "postalCode": "55428"
+            }
+        }, 
+        "storeDistance": 15.9735, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "2873", 
+        "description": null
+    }, 
+    {
+        "name": "5th & Willie Stargell", 
+        "url": "https://www.t-mobile.com/store-locator/ca/alameda/5th-willie-stargell", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "510-214-1185", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "12:00", 
+                "formattedOpens": "12pm"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 37.78689, 
+            "utcOffset": -7, 
+            "longitude": -122.280663, 
+            "address": {
+                "addressLocality": "Alameda", 
+                "addressRegion": "CA", 
+                "streetAddress": "2630 5th St Ste 3", 
+                "postalCode": "94501"
+            }
+        }, 
+        "storeDistance": 15.1986, 
+        "services": null, 
+        "inStoreWaitTime": "C", 
+        "type": "RETAIL", 
+        "id": "4338", 
+        "description": null
+    }, 
+    {
+        "name": "Hwy 96 E & Centerville Rd", 
+        "url": "https://www.t-mobile.com/store-locator/mn/vadnais-heights/hwy-96-e-centerville-rd", 
+        "inStoreAppointment": true, 
+        "spanish": false, 
+        "telephone": "651-829-2345", 
+        "holidays": null, 
+        "hours": [
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Monday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Tuesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Wednesday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Thursday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Friday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "20:00", 
+                "formattedCloses": "8pm", 
+                "day": "Saturday", 
+                "opens": "10:00", 
+                "formattedOpens": "10am"
+            }, 
+            {
+                "closes": "18:00", 
+                "formattedCloses": "6pm", 
+                "day": "Sunday", 
+                "opens": "11:00", 
+                "formattedOpens": "11am"
+            }
+        ], 
+        "photos": null, 
+        "storeDefinition": "(TPR)Third Party Retail", 
+        "location": {
+            "latitude": 45.0792253, 
+            "utcOffset": -5, 
+            "longitude": -93.0610998, 
+            "address": {
+                "addressLocality": "Vadnais Heights", 
+                "addressRegion": "MN", 
+                "streetAddress": "1022 Highway 96 E", 
+                "postalCode": "55127"
+            }
+        }, 
+        "storeDistance": 4.4837, 
+        "services": null, 
+        "inStoreWaitTime": "0", 
+        "type": "RETAIL", 
+        "id": "608E", 
+        "description": null
+    }
+]
