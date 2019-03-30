@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Leaflet Markercluster</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v3.2.0/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.2.0/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/leaflet.markercluster.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/MarkerCluster.css' rel='stylesheet' />
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v1.0.0/MarkerCluster.Default.css' rel='stylesheet' />
+
+<!-- Example data. -->
+<script src="/mapbox.js/assets/data/realworld.388.js"></script>
+
+<div id='map'></div>
+
+<script>
+var addressPoints = [[44.8327159, -93.1665923], [37.64215, -122.40125], [45.0516089, -93.1484422], [37.7379373, -122.1974117], [45.0294353, -93.040435], [40.7590731, -74.0430709], [44.8550649, -93.2394701], [44.9760258, -93.2724534], [40.77335, -73.96447], [37.4903299, -122.2402625], [34.8562551, -82.454511], [44.9673986, -93.4433766], [37.4238687, -122.143092], [44.8547985, -93.2421109], [40.727116, -73.9530049], [37.7280817, -122.4770808], [37.7590802, -122.4189018], [45.1272526, -93.2594187], [40.7827725, -73.9810382], [37.66553, -122.44834], [40.777884, -73.9530193], [44.9619222, -92.7323494], [40.7268935, -74.0384337], [45.0129204, -93.1726353], [40.7937203, -74.0124872], [34.7766945, -82.3135646], [37.76560275748272, -122.46622502803802], [40.7310871, -73.9824392], [40.7655424, -73.9795325], [40.7732629, -74.0280499]]
+L.mapbox.accessToken = 'pk.eyJ1IjoiYXl1c2hwZXRpZ2FyYTMiLCJhIjoiY2p0dXUwaHFyMXFiNDN5bXN1MXA5bzZzdyJ9.UGOwEHrZgNBlaaE7vPCeQw';
+var map = L.mapbox.map('map')
+        .setView([37.8, -96], 4)
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+
+    var markers = new L.MarkerClusterGroup();
+
+    for (var i = 0; i < addressPoints.length; i++) {
+        var a = addressPoints[i];
+        var title = a[2];
+        var marker = L.marker(new L.LatLng(a[0], a[1]), {
+            icon: L.mapbox.marker.icon({'marker-symbol': 'post', 'marker-color': 'EA0A8E'}),
+            title: title
+        });
+        marker.bindPopup(title);
+        markers.addLayer(marker);
+    }
+
+    map.addLayer(markers);
+</script>
+</body>
+</html>
